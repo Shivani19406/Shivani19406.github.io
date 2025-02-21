@@ -37,6 +37,10 @@ body {
     font-weight: bold;
 }
 
+.nav-links a:hover {
+    text-decoration: none;
+}
+
 .section {
     padding: 100px 50px;
     text-align: center;
